@@ -1,0 +1,32 @@
+/*-------Single movie---------*/
+
+.back_btn {
+  margin-bottom: 10px;
+}
+
+.movie {
+  display: flex;
+}
+
+.movie_poster {
+  width: 200px;
+}
+
+.movie_detail {
+  padding: 0 10px;
+}
+
+.movie_name {
+  font-size: 20px;
+  margin: 0;
+  padding: 0;
+}
+
+.movie_heading {
+  font-size: 16px;
+  margin-bottom: 0;
+}
+
+.movie_text {
+  margin-top: 5px;
+}
